@@ -27,5 +27,7 @@
   {"title": "任务系统", "path": "quests"},
   {"title": "地图与区域", "path": "map"},
   {"title": "NPC系统", "path": "npcs"},
-  {"title": "物品与装备", "path": "items"}
+  {"title": "物品与装备", "path": "items"},
+  {"title": "技术策划案", "path": "tech-design"},
+  {"title": "待补充问题", "path": "tech-design-questions"}
 ]
